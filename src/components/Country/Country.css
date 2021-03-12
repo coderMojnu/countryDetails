@@ -1,0 +1,13 @@
+.country-box-style {
+    border: 1px solid peru;
+    padding: 3%;
+    margin: 0 auto;
+    background: lightgray;
+    box-shadow: 5px 5px 5px 5px lightcyan;
+    width: 300px;
+}
+.flag-image {
+  height: 100px;
+  width: 107px;
+  margin: 0 auto;
+}
